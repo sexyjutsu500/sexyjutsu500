@@ -1,7 +1,6 @@
 <h4 align="left">Melot Sapheraph</h4>
 
 - from: San Francisco, CA
-
 - age: 21 years old
 
 - tools and languages i'm familiar with:
