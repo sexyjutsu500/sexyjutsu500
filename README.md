@@ -3,6 +3,8 @@
 - from: San Francisco, CA
 - age: 21 years old
 
+---
+
 - tools and languages i'm familiar with:
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
