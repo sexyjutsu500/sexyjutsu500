@@ -32,4 +32,3 @@
 - Blender
 - Photoshop
 - ClipStudio/Procreate/PaintTool SAI
-- 
