@@ -1,14 +1,14 @@
-## Melot Sapheraph
+**Melot Sapheraph**
 
 - from: San Francisco, CA
 - age: 21 years old
 
 ---
 
-## Languages
+**Languages**
 - Java, C/C#/C++, HTML, PHP, Python
 
-## Tools 
+**Tools**
 - Blender
 - Photoshop
 - ClipStudio/Procreate/PaintTool SAI
