@@ -1,6 +1,8 @@
 <h4 align="left">Melot Sapheraph</h4>
+- from: San Francisco, CA
+- age: 21 years old
 
-<h4 align="left">Languages and Tools:</h4>
+- tools and languages i'm familiar with:
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
